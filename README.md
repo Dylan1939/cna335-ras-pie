@@ -8,9 +8,15 @@ https://libreelec.tv/downloads_new/
 
 ```
 ### LibreELEC
+```
 cd~/downloads
+```
+```
 chmod +x LibreELEC.USB-SD.Creator.Linux-64bit.bin
+```
+```
 sudo ./LibreELEC.USB-SD.Creator.Linux-64bit.bin
+```
 ### To install kodi on the pie enter this command.
 ```
 sudo apt-get install kodi
