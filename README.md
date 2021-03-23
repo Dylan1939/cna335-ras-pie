@@ -2,11 +2,11 @@
 
 ## Kodi installstion on the Ras Pie Zero W
 
-### Install LibreELEC 
+## Install LibreELEC 
 ```
 https://libreelec.tv/downloads_new/
 
-## LibreELEC 
+### LibreELEC 
 ```
 cd~/downloads
 chmod +x LibreELEC.USB-SD.Creator.Linux-64bit.bin
