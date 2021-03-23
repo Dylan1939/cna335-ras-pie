@@ -6,8 +6,8 @@
 ```
 https://libreelec.tv/downloads_new/
 
-### LibreELEC 
 ```
+### LibreELEC
 cd~/downloads
 chmod +x LibreELEC.USB-SD.Creator.Linux-64bit.bin
 sudo ./LibreELEC.USB-SD.Creator.Linux-64bit.bin
