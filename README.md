@@ -2,7 +2,7 @@
 
 ## Kodi installstion on the Ras Pie Zero W
 
-## Install LibreELEC 
+### Install LibreELEC 
 ```
 https://libreelec.tv/downloads_new/
 
